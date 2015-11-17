@@ -1,0 +1,22 @@
+{
+  "name": "BitMessage",
+  "version": "1.0.0",
+  "description": "Bitcoin messaging system powered by ethereum",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ColeHud/BitMessage.git"
+  },
+  "author": "Cole Hudson and Chaitu Dandu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ColeHud/BitMessage/issues"
+  },
+  "homepage": "https://github.com/ColeHud/BitMessage",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
